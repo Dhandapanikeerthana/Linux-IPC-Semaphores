@@ -112,10 +112,13 @@ if(NUM_LOOPS>=10)    {
 ```
 ## OUTPUT
 $ ./sem.o 
+
+
 ![Screenshot 2025-04-29 091204](https://github.com/user-attachments/assets/99c24d81-5b1b-44cf-8fcc-4a8942c0768b)
 
 
 $ ipcs
+
 
 ![Screenshot 2025-04-29 091219](https://github.com/user-attachments/assets/e9d6fa3a-ca1c-413f-9454-41d063e8273d)
 
